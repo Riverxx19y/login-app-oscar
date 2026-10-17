@@ -1,0 +1,14 @@
+# Dependencias y compilados
+node_modules/
+*.class
+target/
+
+# Configuración local y secretos
+.env
+*.env
+.vscode/
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
